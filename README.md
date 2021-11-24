@@ -1,4 +1,4 @@
-### 👋 Heya, I am kumaran
+### 👋 Hey, I am kumaran
 
 Skilled and adaptable team player. Builder, developer, problem solver and
 penetration tester. Multiple open source community projects have made a
