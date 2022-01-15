@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Joas Antonio
+### I'm kumaran
 
-Red Team Expert | InfoSec Leader | OWASP Member | Speaker and Teaching | Cyber Security Mentor | Article Writer | Mitre Att&ck Contributor | Hacking is NOT a Crime Advocate
+Red Teamer | InfoSec enthusiast| OWASP | Cyber Security learner | Article Writer | Mitre Att&ck Contributor | Hacking is NOT a Crime Advocate
 
-OSWP, CEH ANSI, CEH Practical, CEH Master, eJPT, eMAPT, eWPT, eWPTXv2
+Resolution to OSWP, CEH ANSI, CEH Practical, CEH Master, eJPT, eMAPT, eWPT, eWPTXv2
 
 <br>
 
@@ -29,9 +29,9 @@ OSWP, CEH ANSI, CEH Practical, CEH Master, eJPT, eMAPT, eWPT, eWPTXv2
 
 [![CyberSecurityUP GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberSecurityUP&theme=dark)](https://github.com/CyberSecurityUP/github-readme-stats)
 
-:computer: I'm Red Team Leader.
+:computer: I'm Red Teamer
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Arani,Tamilnadu.
 
 :books: I'm currently learning all about IT and Security.
 
