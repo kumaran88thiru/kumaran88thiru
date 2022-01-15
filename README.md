@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**CyberSecurityUP/CyberSecurityUP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kumaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm kumaran
 
-Red Teamer | InfoSec enthusiast| OWASP | Cyber Security learner | Article Writer | Mitre Att&ck Contributor | Hacking is NOT a Crime Advocate
+Red Teamer | InfoSec enthusiast | OWASP | Cyber Security learner | Article Writer | Mitre Att&ck Contributor | Hacking is NOT a Crime Advocate
 
 Resolution to OSWP, CEH ANSI, CEH Practical, CEH Master, eJPT, eMAPT, eWPT, eWPTXv2
 
