@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm kumaran
 
-Red Teamer | InfoSec enthusiast | OWASP | Cyber Security learner | Article Writer | Mitre Att&ck Contributor | Hacking is NOT a Crime Advocate
+Red Teamer | InfoSec enthusiast | OWASP | Cyber Security learner | Article Writer | Mitre Att&ck Contributor | Hacking is NOT a Crime 
 
 Resolution to OSWP, CEH ANSI, CEH Practical, CEH Master, eJPT, eMAPT, eWPT, eWPTXv2
 
@@ -27,8 +27,7 @@ Resolution to OSWP, CEH ANSI, CEH Practical, CEH Master, eJPT, eMAPT, eWPT, eWPT
 
 </br>
 
-[![CyberSecurityUP GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberSecurityUP&theme=dark)](https://github.com/CyberSecurityUP/github-readme-stats)
-
+[![CyberSecurityUP GitHub stats](https://github-readme-stats.vercel.app/api?username=kumaran88thiru&theme=dark)](https://github.com/kumaran88thiru/github-readme-stats)
 :computer: I'm Red Teamer
 
 :house_with_garden: I’m from Arani,Tamilnadu.
